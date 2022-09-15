@@ -12,6 +12,8 @@ I want to develop my skills in front-end development to make some changes in my 
 * Test Automation
 * API testing
 * Bug tracking systems
+* Javascript
+* HTML/CSS
 
 ## Experience:
 * QA engineer in telecommunication company
