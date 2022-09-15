@@ -1,1 +1,1 @@
-# https://github.com/Astrey/rsschool-cv/blob/gh-pages/cv.md
+# https://astrey.github.io/rsschool-cv/
